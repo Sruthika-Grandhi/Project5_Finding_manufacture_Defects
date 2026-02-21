@@ -1,0 +1,24 @@
+# Ignore dataset folder
+dataset/
+
+# Ignore checkpoints (trained models)
+checkpoints/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
