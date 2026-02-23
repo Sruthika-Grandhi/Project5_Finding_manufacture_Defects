@@ -1,6 +1,6 @@
 # Project-5_Finding_Manufacture_Defects_using_CGAN
 ## Group Project
-- Team Members: Likitha, MD Lathif, Sruthika, Navadeep, Hari Priya
+- Team Members:  Likitha, MD Lathif, Sruthika, Navadeep, Hari Priya
 
 ---
 
