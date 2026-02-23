@@ -28,7 +28,7 @@ The generated images are compared with real inspection images to identify deviat
 ## Training Workflow
 
 1. Load manufacturing dataset
-2. Preprocess images (resize, normalize)
+2. Preprocess images (resize , normalize)
 3. Initialize Conditional Generator and Discriminator
 4. Train CGAN using adversarial learning
 5. Generate normal images
