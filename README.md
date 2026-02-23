@@ -39,6 +39,7 @@ The generated images are compared with real inspection images to identify deviat
 
 ## Project Structure
 
+```bash
 Project5_Finding_manufacture_Defects/
 
 │
@@ -61,6 +62,7 @@ Project5_Finding_manufacture_Defects/
 ├── README.md
 │
 └── .gitignore
+```
 
 ---
 
