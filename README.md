@@ -83,13 +83,15 @@ Likitha
 ### Generator
 
 - Input: Noise vector + Label
-- Generates manufacturing images
+- Generates manufacturing images by going through Dense, Reshaping, Con2dTranspose.
 - Uses convolution layers
 
 ### Discriminator
 
 - Input: Image + Label
+- Concatinating and checking 
 - Classifies real or fake images
+<img width="675" height="400" alt="image" src="https://github.com/user-attachments/assets/56d4224f-d2df-41d9-9999-d246827aa51d" />
 
 ### Loss & Optimization
 
